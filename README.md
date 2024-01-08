@@ -18,17 +18,17 @@ Temple's Hideout > **[https://blog.templ.es](https://blog.templ.es)**
 
 ## Projects 🔭
 
-- [Arcade Manager](https://github.com/Temple2001/arcade-manager) `Solo`
+- [Arcade Manager](https://github.com/Temple2001/arcade-manager) - `Solo`
   
     - 오락실 Live 방송 타임체크 매니저
     - `Python` `React.js`
  
-- [Temple's Hideout](https://github.com/Temple2001/temple2001.github.io) `Solo`
+- [Temple's Hideout](https://github.com/Temple2001/temple2001.github.io) - `Solo`
 
     - 프로그래밍/개발 관련 개인 블로그
     - `Next.js` `Contentlayer`
  
-- [Cubeat](https://github.com/Lockway/Cubeat) `Team`
+- [Cubeat](https://github.com/Lockway/Cubeat) - `Team`
 
     - Unity 기반 3x3 Key 리듬게임
     - `Unity`
