@@ -1,16 +1,34 @@
-### Hi there 👋
+# 저를 소개하자면...
 
-<!--
-**Temple2001/Temple2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+개발(**C**reate)을 위해
 
-Here are some ideas to get you started:
+꾸준히 읽고(**R**ead) 공부하며,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+그렇게 쌓은 지식을 예전의 지식에 끊임없이 갱신(**U**pdate)하고,
+
+때로는 더 나은 개발을 위해 오래되고 잘못된 지식을 과감히 삭제(**D**elete)하고 있습니다.
+
+저는 개발자 지망생 김동영입니다.
+
+* * *
+
+## My Blog 🖥️
+
+Temple's Hideout > **[https://blog.templ.es](https://blog.templ.es)**
+
+## Projects 🔭
+
+- [Arcade Manager](https://github.com/Temple2001/arcade-manager) `Solo`
+  
+    - 오락실 Live 방송 타임체크 매니저
+    - `Python` `React.js`
+ 
+- [Temple's Hideout](https://github.com/Temple2001/temple2001.github.io) `Solo`
+
+    - 프로그래밍/개발 관련 개인 블로그
+    - `Next.js` `Contentlayer`
+ 
+- [Cubeat](https://github.com/Lockway/Cubeat) `Team`
+
+    - Unity 기반 3x3 Key 리듬게임
+    - `Unity`
