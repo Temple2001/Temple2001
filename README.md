@@ -12,11 +12,11 @@
 
 * * *
 
-## My Blog 🖥️
+# My Blog 🖥️
 
 Temple's Hideout > **[https://blog.templ.es](https://blog.templ.es)**
 
-## Projects 🔭
+# Projects 🔭
 
 - [Arcade Manager](https://github.com/Temple2001/arcade-manager) - `Solo`
   
