@@ -32,3 +32,27 @@ Temple's Hideout > **[https://blog.templ.es](https://blog.templ.es)**
 
     - Unity 기반 3x3 Key 리듬게임
     - `Unity`
+
+- [BaroNow](https://github.com/wo0gA) - `Team`
+
+    - 운동용품 대여 서비스
+    - 멋쟁이사자처럼 중앙 해커톤 출품 프로젝트
+    - `Django` `React.js` `Websocket`
+ 
+- [Bibim](https://play.google.com/store/apps/details?id=site.bibim.app) - `Team`
+
+    - 한국에 온 외국인 유학생을 위한 커뮤니티 서비스
+    - Wekorea 창업기업 메인 프로젝트
+    - `Spring Boot`
+ 
+- [HolyMoly](https://github.com/HolyMoly-LikeSanta) - `Team`
+
+    - 크리스마스 트리를 테마로 한 익명 롤링페이퍼 서비스
+    - 멋쟁이사자처럼 중앙대학교 중커톤 우수상 프로젝트
+    - `Spring Boot`
+ 
+- [Globob](https://github.com/24-2-CAU-Capstone-02) - `Team`
+
+    - 한국에 온 외국인 관광객을 위한 한국 음식점 메뉴 선정 도우미 서비스
+    - 중앙대학교 캡스톤디자인 출품 프로젝트
+    - `Spring Boot` `Redis` `Websocket`
