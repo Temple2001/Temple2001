@@ -26,7 +26,7 @@ Temple's Hideout > **[https://blog.templ.es](https://blog.templ.es)**
 - [Temple's Hideout](https://github.com/Temple2001/temple2001.github.io) - `Solo`
 
     - 프로그래밍/개발 관련 개인 블로그
-    - `Next.js` `Contentlayer`
+    - `Astro`
  
 - [Cubeat](https://github.com/Lockway/Cubeat) - `Team`
 
